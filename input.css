@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+@layer base{
+    h2{
+        @apply font-bold text-xl text-center my-4
+    }
+}
+.features-p{
+    @apply text-center max-w-md
+}
+.Testimonials-h1{
+    @apply text-lg leading-normal max-w-[17rem] 
+}
+.testimonials-carts{
+    @apply flex flex-col space-y-4 p-10 w-full md:w-1/3  bg-darkBlue3 rounded-md  max-w-[22rem]
+}
+
+.ficon:hover {
+    filter: invert(80%) sepia(37%) saturate(7048%) hue-rotate(132deg)
+      brightness(105%) contrast(104%);
+  }
