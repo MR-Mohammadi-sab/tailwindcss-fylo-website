@@ -4,4 +4,4 @@
 
 ##### Deploy Link 👇👇🏿
 
-IF you want to see click here (https://mr-mohammadi-sab.github.io/tailwindcss-loopstudios/)
+IF you want to see click here (https://mr-mohammadi-sab.github.io/tailwindcss-fylo-website/)
